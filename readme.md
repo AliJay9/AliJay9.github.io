@@ -49,7 +49,7 @@ Apartado 1: Vídeos; donde podemos observar 2 vídeos (uno de YouTube y otro .mp
 Apartado 2: Galería; la cual contiene varias de las fotografías más importantes de la película. Aquí puedes avanzar hasta la última foto y volver al menú principal si lo deseas.
 Apartado 3: Audio; dentro de este apartado podemos reproducir, pausar, reanudar y subir y bajar volumen a la música (BSO de la película). Y, también, volver al menú.
 Apartado 4: Créditos; encontramos una breve animación de los créditos finales donde se ve el nombre de la autora.
-Apartado 5: Minijuego; 
+Apartado 5: Minijuego; una vez accedemos al minijuego (a partir de un menú de juego previo) tenemos dos partes. En la primera pantalla hay cuatro personajes (Thanos, Thor, Escarlata y Vision), un bocadillo que va desapareciendo progresivamente donde explica cómo debemos mover nuestro personaje (Thanos), unos controles que se usan con el ratón, una flecha que nos lleva de vuelta al menú del juego y un ''agujero negro''. Cuando Thanos toca a cualquiera de los personajes muere y nos lleva a la pantalla 'cielo' donde podemos clicar en el botón de regreso y volver al juego. Sin embargo, cuando Thanos llega al agujero negro este nos transporta automáticamente al guante que porta las 6 gemas del infinito. Una vez aquí podemos pinchar en el guante, hacer salir las gemas y obtener información de cada una de ellas. Y, por supuesto, podemos volver atrás tanto como queramos. 
 
 
 
@@ -66,16 +66,15 @@ Apartado 5: Minijuego;
 
 
 # 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Sobre mi propio criterio he intentado que este proyecto sea lo más intuitivo y comprensible que he considerado. Esto se ha conseguido disponiendo las cosas de tal manera que son fáciles de entender para mí misma y, por supuesto, pensando en todo los públicos.
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
+- Pixel art (de manera generalizada)
 - 
 
 
@@ -88,7 +87,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos.
 
 
 
