@@ -18,7 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Minijuego / galería 
 
-**Logotipo** : ![avengers-infinity-war-logo-770x433](https://user-images.githubusercontent.com/106731753/172700943-c9ef7646-b3f0-4fb8-a93f-621571c041cc.jpg)
+**Logotipo** : 
+![avengers-infinity-war-logo-770x433](https://user-images.githubusercontent.com/106731753/172700943-c9ef7646-b3f0-4fb8-a93f-621571c041cc.jpg)
 
 **Resolución:** 600x400px 
 
@@ -28,11 +29,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 08/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
+- Github:https://github.com/AliJay9
 - Google Imágenes
 - YouTube
 - Pinterest
@@ -55,9 +56,6 @@ Apartado 5: Minijuego; una vez accedemos al minijuego (a partir de un menú de j
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
 
 
 
@@ -73,14 +71,11 @@ Sobre mi propio criterio he intentado que este proyecto sea lo más intuitivo y 
 **Investigación de campo** 
 
 - Pixel art (de manera generalizada)
-- 
-
+https://mymodernmet.com/es/que-es-pixel-art/
 
 
 **Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
-
+Este proyecto es bastante interesante porque se podría desarrollar mucho más allá de lo que actualmente es y, además, el minijuego se podría hacer mucho más complejo, con más pantallas y más jugabilidad y elementos y acciones de interés. Me es fácil imaginarlo a modo app y es algo que me motiva a seguir aprendiendo e investigando en el mundo de lo interactivo.
 
 
 **Publico / audiencia**
@@ -93,25 +88,21 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+- Juego: en el juego tenemos una primera pantalla con 4 colisiones. Tres de ellas (los personajes) nos llevan a la escena 'cielo' donde hay un texto que nos indican que 'hemos muerto' y nos permite volver al juego y otra que nos lleva a la siguiente parte del juego. En esta podemos cliclar el guante de Thanos y, como consecuencia, nos va a mostrar 6 botones (gemas del infinito) donde cada uno nos va a llevar a otras respectivas pantallas. Hay 6 pantallas en las cuales se muestra el nombre y la imagen de cada gema. De nuevo estas gemas tienen un botón click que hace que aparezca su respectiva información (qué poder atorga, para qué se puede usar, etc).
+- Video: tenemos un vídeo de YouTube y otro formato .mp4 los cuales podemos reproducir, parar, avanzar o retroceder, etc. Son vídeos que nos muestran 2 de las escenas más importantes de la película Infinity War. 
+- Instrucciones y ayuda al usuario: las instrucciones escritas solo se han añadido en la pantalla principal del minijuego para que así el espectador pueda saber como mover el personaje. Además de textos indicativos de dónde clicar en diferentes partes del proyecto.
+- Menús y elementos de navegación: consta de dos menús; uno principal donde encontramos botones que nos llevan a prácticamente todas las partes del juego y un submenú principal del minijuego que nos lleva tanto al juego como de vuelta al inicio.
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Funciona tanto en móviles como en PC, pero en ocasiones da problemas al reproducirse en teléfonos. Por ejemplo, en el archivo HTML funciona correctamente en todos sus apartados. Además cuando clicas en el botón de la pantalla 'cielo' y vuelves al juego a veces cuesta quitar el personaje de encima del objeto con el que colisiona y volver a poder jugar.
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Este proyecto podría dar mucho más de sí y, como todo, puede mejorarse bastante. Como bien he mencionado antes incluría más elementos y acciones y haría bastante más complejo de lo que es. También me gustaría mejorar un poco su estética o incluso diseñar yo misma diferentes escenarios y botones. Sin embargo, me considero satisfecha  para ser el primer contacto con la multimedia interactiva. También es cierto que siento interés y motivación para aprender más y avanzar respecto al proyecto.
 
 
 
@@ -124,6 +115,7 @@ Este  proyecto es interesante porque ...
 **Artículos y blogs ** 
 
 - The Avengers: cuáles son las 6 Gemas del Infinito que busca Thanos, 25 de abril de 2022. Obtenidoe el 5 de junio de 2022 de: https://disneylatino.com/novedades/the-avengers-cuales-son-las-6-gemas-del-infinito-que-busca-thanos#:~:text=Las%206%20Gemas%20del%20Infinito%20son%20Gema%20del%20Espacio%2C%20Gema,el%20poder%20de%20las%20gemas.
+
 **Recursos y materiales audiovisuales:**
 
 * Musica: BSO Infinity War
