@@ -18,9 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Minijuego / galería 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : ![avengers-infinity-war-logo-770x433](https://user-images.githubusercontent.com/106731753/172700943-c9ef7646-b3f0-4fb8-a93f-621571c041cc.jpg)
 
 **Resolución:** 600x400px 
 
@@ -139,8 +137,7 @@ Este  proyecto es interesante porque ...
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://user-images.githubusercontent.com/106731753/172700535-da6f56ad-74f4-410e-89c8-65d19fa7241b.png)
 
-https://creativecommons.org/licenses/?lang=es
 
 Junio 2022
