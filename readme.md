@@ -54,6 +54,7 @@ Apartado 5: Minijuego; una vez accedemos al minijuego (a partir de un menú de j
 
 ### 2.2. Esquema de navegación 
 
+![IMG_20220608_221840](https://user-images.githubusercontent.com/106731753/172710048-b97a75cd-66d9-4409-850b-9e9abf4f2848.jpg)
 
 
 
